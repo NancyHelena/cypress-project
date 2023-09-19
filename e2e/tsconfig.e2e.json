@@ -6,7 +6,7 @@
     "module": "commonjs",
     "target": "es5",
     "types": [
-      "jasmine",
+      "jasminee",
       "jasminewd2",
       "node"
     ]
